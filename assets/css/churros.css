@@ -1,0 +1,15 @@
+#wrapper-ingredients {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#col-izq {
+    padding: 10px 22px 10px 20px;
+
+}
+
+#col-der {
+    padding: 10px 22px 10px 20px;
+}
+
